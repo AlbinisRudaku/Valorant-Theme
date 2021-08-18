@@ -2,7 +2,7 @@
   "name": "valorant-based-theme",
   "displayName": "Valorant Based Theme",
   "description": "A theme based on the popular FPS shooting game VALORANT",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.59.0"
   },
