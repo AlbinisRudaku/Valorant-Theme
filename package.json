@@ -7,7 +7,10 @@
     "vscode": "^1.59.0"
   },
   "publisher": "AlbinisRudaku",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlbinisRudaku/Valorant-Theme"
+  },
   "keywords": [
     "valorant",
     "valo",
