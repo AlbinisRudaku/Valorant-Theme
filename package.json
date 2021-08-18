@@ -1,21 +1,31 @@
 {
-    "name": "valorant-based-theme",
-    "displayName": "Valorant Based Theme",
-    "description": "A theme based on the popular FPS shooting game VALORANT",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Valorant Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Valorant Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "valorant-based-theme",
+  "displayName": "Valorant Based Theme",
+  "description": "A theme based on the popular FPS shooting game VALORANT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "publisher": "AlbinisRudaku",
+  "repository": {},
+  "keywords": [
+    "valorant",
+    "valo",
+    "theme",
+    "red",
+    "blue",
+    "game"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Valorant Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Valorant Theme-color-theme.json"
+      }
+    ]
+  }
 }
