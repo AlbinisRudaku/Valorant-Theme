@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/AlbinisRudaku/Valorant-Theme"
   },
+  "icon": "./img/theme-icon.png",
   "keywords": [
     "valorant",
     "valo",
